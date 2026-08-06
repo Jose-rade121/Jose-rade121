@@ -1,3 +1,12 @@
+<p align = "center">
+
+<img src = "" alt = "Banner" whidth = "100%"/> 
+
+</p>
+
+
+
+
 <div align = "center">
   
 # Hi there 👋, I'm Jose.
@@ -18,8 +27,7 @@
 
 <p align = "center">
 
-<img 
-src = "https://skillicons.dev/icons?i=java,c,git,github,vscode"/> 
+<img src = "https://skillicons.dev/icons?i=java,c,git,github,vscode"/> 
 
 </p>
 
