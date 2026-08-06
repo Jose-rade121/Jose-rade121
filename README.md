@@ -1,6 +1,6 @@
 <p align = "center">
 
-<img src = "" alt = "Banner" whidth = "100%"/> 
+<img src = "./GIF-20241225-10322-272 hosted at imgBB.gif" alt = "Banner" whidth = "100%"/> 
 
 </p>
 
