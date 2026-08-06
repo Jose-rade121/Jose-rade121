@@ -1,6 +1,7 @@
 <p align = "center">
 
 <img src = "Baner.gif" alt = "Banner" whidth = "100%"/> 
+<p style = "font-size: '11px';">Banner from pinterest</p>
 
 </p>
 
