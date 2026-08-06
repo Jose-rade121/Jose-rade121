@@ -1,16 +1,59 @@
-## Hi there 👋
+<div align = "center">
+  
+# Hi there 👋, I'm Jose.
+### Computer Science Student
+  
+</div>
 
-<!--
-**Jose-rade121/Jose-rade121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About Me 👨‍💻
+-🎓Computer Science student from Colombia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-🎖 Always looking for challenging projects.
+
+---
+
+## Tech Stack
+
+<p align = "center">
+
+<img 
+src = "https://skillicons.dev/icons?i=java,c,git,github,vscode"/> 
+
+</p>
+
+---
+
+## Github Stats
+
+<p align = "center">
+
+<p align = "center">
+
+<img 
+src = "https://github-readme-stats.vercel.app/api?username=Jose-rade121&show_icons=true&theme=tokyonight"  />
+  
+</p>
+<!-- Top Languages -->
+
+</p>
+
+---
+
+## Contact
+
+-📧 joseenriquemana121@gmail.com
+
+-📓 Linkedln *(coming soon)*
+
+---
+<div align = "center">
+
+### "Keep learning. Keep building."
+
+🀄 Thanks for visiting my profile!
+
+</div>
+
+
