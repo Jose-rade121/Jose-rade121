@@ -7,7 +7,7 @@
 
 ---
 
-## About Me 👨‍💻
+## About Me 
 -🎓Computer Science student from Colombia.
 
 -🎖 Always looking for challenging projects.
@@ -27,17 +27,13 @@ src = "https://skillicons.dev/icons?i=java,c,git,github,vscode"/>
 
 ## Github Stats
 
-<p align = "center">
 
 <p align = "center">
 
-<img 
-src = "https://github-readme-stats.vercel.app/api?username=Jose-rade121&show_icons=true&theme=tokyonight"  />
+<img src = "https://github-readme-stats.vercel.app/api?username=Jose-rade121&show_icons=true&theme=tokyonight" height = "170"  />
   
 </p>
-<!-- Top Languages -->
 
-</p>
 
 ---
 
